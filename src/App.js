@@ -21,7 +21,7 @@ function App() {
     <div className={classes.root}>
       <AppBar position="static" className={classes.appBar}>
         <Toolbar>
-          <Typography variant="h5">Learning app</Typography>
+          <Typography variant="h5">Learning app blah</Typography>
         </Toolbar>
       </AppBar>
       <Typography align="center" variant="body1">
